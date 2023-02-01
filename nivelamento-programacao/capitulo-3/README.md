@@ -11,10 +11,10 @@ Solicitar ao usuário a sua idade e exibir mensagem "Maior de idade" caso a idad
 >cap_03_exe_03
 
 Solicitar um número ao usuário. A partir do número, exibir o dia da semana correspondente:
-1 = Domingo
-2 = Segunda
-3 = Terça
-4 = Quarta
-5 = Quinta
-6 = Sexta
-7 = Sábado
+<br>1 = Domingo
+<br>2 = Segunda
+<br>3 = Terça
+<br>4 = Quarta
+<br>5 = Quinta
+<br>6 = Sexta
+<br>7 = Sábado
