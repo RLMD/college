@@ -18,3 +18,29 @@ Solicitar um número ao usuário. A partir do número, exibir o dia da semana co
 <br>5 = Quinta
 <br>6 = Sexta
 <br>7 = Sábado
+
+>cap_03_exe_04
+
+Dados dois números inteiros e uma operação aritmética desejada, calcule a resposta adequada.
+<br>Utilize os símbolos a seguir para ler qual a operação escolhida
+<br>+ - soma
+<br>- - subtração
+<br>* - multiplicação
+<br>/ - divisão
+
+>cap_03_exe_05
+
+Dada a parte numérica da plaxa de um automóvel, fazer um algoritmo que exiba o dia do rodízio:
+<br>1 e 2 - segunda
+<br>3 e 4 - terça
+<br>5 e 6 - quarta
+<br>7 e 8 - quinta
+<br>9 e 0 - sexta
+
+>cap_03_exe_06
+
+Dado um número pelo usuário, informar se ele é positivo, negativo ou nulo.
+
+>cap_03_exe_07
+
+Dados três números, exibir o de maior valor.
