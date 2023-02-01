@@ -12,3 +12,7 @@ Dado o preço de um maço de cigarros pelo usuário, a quantidade de maços cons
 
 Dada uma quantia em dinheiro, calcule quantas cédulas de 10, 20 e 50 são necessárias para compor esta quantia.
 (Nota: Considere que a quantia seja múltiplo de 10.)
+
+>cap_02_exe_04
+
+Dado um valor e a porcentagem, calcular o percentual, acréscimo e desconto.
