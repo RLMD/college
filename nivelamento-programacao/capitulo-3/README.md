@@ -22,7 +22,7 @@ Solicitar um número ao usuário. A partir do número, exibir o dia da semana co
 >cap_03_exe_04
 
 Dados dois números inteiros e uma operação aritmética desejada, calcule a resposta adequada.
-<br>Utilize os símbolos a seguir para ler qual a operação escolhida
+<br>Utilize os símbolos a seguir para ler qual a operação escolhida:
 <br>+ - soma
 <br>- - subtração
 <br>* - multiplicação
