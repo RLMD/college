@@ -30,7 +30,7 @@ Dados dois números inteiros e uma operação aritmética desejada, calcule a re
 
 >cap_03_exe_05
 
-Dada a parte numérica da plaxa de um automóvel, fazer um algoritmo que exiba o dia do rodízio:
+Dada a parte numérica da placa de um automóvel, fazer um algoritmo que exiba o dia do rodízio:
 <br>1 e 2 - segunda
 <br>3 e 4 - terça
 <br>5 e 6 - quarta
