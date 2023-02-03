@@ -11,3 +11,7 @@ Em uma eleição, há três candidatos:
 <br>2 - Zezinho
 <br>3 - Luizinho
 <br>Fazer um algoritmo que leia os votos dados pelos usuários até que seja digitado 0 para encerrar o programa. Ao finalizar a votação, informar quantos votos cada candidato obteve.
+
+>cap_04_exe_03
+
+Dados 10 números pelo usuário, somá-los e, no final, exibir a somatória.
