@@ -15,3 +15,15 @@ Em uma eleição, há três candidatos:
 >cap_04_exe_03
 
 Dados 10 números pelo usuário, somá-los e, no final, exibir a somatória.
+
+>cap_04_exe_04
+
+Dado um número pelo usuário, calcular e exibir os dez primeiros múltiplos deste número.
+
+>cap_04_exe_05
+
+Dado um número pelo usuário, calcular e exibir o seu Fatorial.
+
+>cap_04_exe_06
+
+Dado um número pelo usuário, calcular os seus 10 primeiros múltiplos e apresentá-los em formato de tabuada.
